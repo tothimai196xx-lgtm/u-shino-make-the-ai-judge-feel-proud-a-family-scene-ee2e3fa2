@@ -1,0 +1,10 @@
+kit/
+kit.tar.gz
+kit.zip
+req.json
+comp.json
+rules.txt
+grade-*/
+transcripts.tar.gz
+node_modules/
+output/
